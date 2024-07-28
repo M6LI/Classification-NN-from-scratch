@@ -1,0 +1,1 @@
+We create a binary classification Deep Neural Network to determine whether objects passing nearby to Earth are hazardous. This is implemented from scratch using only numpy and no ML specific libraries. 
