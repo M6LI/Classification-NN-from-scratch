@@ -1,4 +1,4 @@
-We create a binary classification Deep Neural Network to determine whether objects passing nearby to Earth are hazardous. This is implemented from scratch using only numpy and no ML specific libraries. The training is done using a Kaggle dataset. The project will be divided into sections:
+We create a binary classification Deep Neural Network to determine whether a given individual has diabetes or not, given some health data (e.g. glucose levels, BMI). This is implemented from scratch using only numpy and no ML specific libraries. The project is divided into sections:
 
 - [0: Data preparation]
 - [1: Initialisation of hyperparameters]
